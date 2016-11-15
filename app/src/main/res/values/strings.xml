@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">S09A4CustomDialogNMenu</string>
+
+    <string name="dlg_title">Enter the Details</string>
+    <string name="et_name">Name</string>
+    <string name="et_number">Phone Number</string>
+    <string name="et_dob">dd</string>
+    <string name="et_mob">mm</string>
+    <string name="et_yob">yyyy</string>
+    <string name="menu_item_add">Add</string>
+</resources>
